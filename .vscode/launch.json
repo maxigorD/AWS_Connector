@@ -1,0 +1,26 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        // {
+        //     "name": "Python : fichier actif",
+        //     "type": "python",
+        //     "request": "launch",
+        //     "program": "${file}",
+        //     "console": "integratedTerminal",
+        //     "justMyCode": true
+        // },
+        {
+            "name": "xetra_etl_run",
+            "type": "python",
+            "python.pythonPath": "C:/Users/maxda/.virtualenvs/AWS_Connector-md-TDcy6",
+            "request": "launch",
+            "program": "C:/Users/maxda/Python_ETL_project/AWS_Connector/run.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["C:/Users/maxda/Python_ETL_project/AWS_Connector/configs/xetra_report1_config.yaml"]
+        }
+    ]
+}

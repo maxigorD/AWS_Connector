@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+
+[dev-packages]
 awscli = "*"
 jupyter = "*"
 jupyterlab = "*"
@@ -12,8 +14,8 @@ pyyaml = "*"
 pylint = "*"
 moto = "*"
 coverage = "*"
-
-[dev-packages]
+pandas = "*"
+pyarrow = "*"
 
 [requires]
 python_version = "3.10"
