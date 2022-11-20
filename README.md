@@ -16,3 +16,5 @@ nécéssaire pour la mise en production d'application. Il s'agit de
 
 J'ai réalisé cette formation pour répondre à un besoin qui s'est manifesté 
 durant mon contrat d'alternance. 
+
+Les fichiers de l'application se situe dans la branche developpement.
